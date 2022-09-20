@@ -14,7 +14,7 @@ Build the project with `npx webpack build`.
 - This will create a dist/ directory with a minified `main.js` file that you can run in the browser that includes all your dependencies!
 
 ## Viewing Output
-In this example, open `demo/index.html` using Live Server and you will be able to see your JavaScript output in the console!
+In this example, create a build then open `demo/index.html` using Live Server and you will be able to see your JavaScript output in the console!
 
 ## Next Steps
 Look into configuring webpack by creating a `webpack.config.js` file in the project root  directory. 
