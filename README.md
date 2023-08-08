@@ -1,7 +1,9 @@
 # Webpack Demo
+
 This repository demonstrates how to use webpack to bundle a javascript project.
 
 ## Steps involved to create a webpack bundlable projecct
+
 1. Create a node project `npm init -y`
 2. Install webpack `npm install webpack webpack-cli --save-dev`
 3. Create a src/ directory `mkdir src`
